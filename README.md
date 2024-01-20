@@ -56,22 +56,3 @@ Contributions are welcome! If you have suggestions, enhancements, or find issues
 ## Developer
 
 - Tamara youssef (Tamarayf)
-
-# Java-User-Management-T >> README.md
-git init
-git add README.md
-
- echo # Java-User-Management-T
-# Java-User-Management-T >> README.md
-git init
-git add README.md
-
-
-
-echo # Java-User-Management-T
-# Java-User-Management-T >> README.md
-git init
-git add README.md 
-
-
-echo # Java-User-Management-T
