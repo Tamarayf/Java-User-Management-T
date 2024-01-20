@@ -412,7 +412,7 @@ class UserManager{
     }
 }
 
-public class TamaraYoussef {
+public class UserManagement {
     static int count = 1;//this counter is for the id since the id is unique so i decided to give any user an id by the order
     public static void main(String[] args) throws NoSuchAlgorithmException, IOException {
         Scanner sc = new Scanner(System.in);
