@@ -62,3 +62,16 @@ git init
 git add README.md
 
  echo # Java-User-Management-T
+# Java-User-Management-T >> README.md
+git init
+git add README.md
+
+
+
+echo # Java-User-Management-T
+# Java-User-Management-T >> README.md
+git init
+git add README.md 
+
+
+echo # Java-User-Management-T
